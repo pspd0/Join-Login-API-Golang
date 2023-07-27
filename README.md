@@ -4,4 +4,4 @@
 > 쿼리로 요청하기 !
 
 # username, password 이 2개만 요청하면 됨 !
-> localhost:8080/login?username=rorack&password=1234
+> localhost:8080/login?username=Test&password=1234
