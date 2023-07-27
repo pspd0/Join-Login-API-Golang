@@ -4,16 +4,16 @@
 > 쿼리로 요청하기 !
 
 # login 요청법 
-localhost:8080/login?username=Test&password=1234
+> localhost:8080/login?username=Test&password=1234
 <br>
 login 뒤에 username, password 요청
 
 # create 요청법
-localhost:8080/create?username=Test&password=1234
+> localhost:8080/create?username=Test&password=1234
 <br>
 create 뒤에 username, password 요청
 
 # delete 요청법
 localhost:8080/delete?username=Test&password=1234
 <br>
-delete 뒤에 username, password 요청
+> delete 뒤에 username, password 요청
